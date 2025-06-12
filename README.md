@@ -10,7 +10,10 @@ This folder contains the system prompts of the chat assistants showcased during 
 
 2.  **`resume_modifier.md`**: This assistant tailors a user's resume to a specific job description, ensuring maximum relevance and impact without adding new information.
 
-3.  **`system_prompt_architect.md`**: The 'System Prompt Architect' helps users craft strong, descriptive, and highly specific system prompts for their own LLMs.
+3.  **`resume.pdf`**: A sample resume provided to test the `resume_modifier.md` prompt.
+
+
+4.  **`system_prompt_architect.md`**: The 'System Prompt Architect' helps users craft strong, descriptive, and highly specific system prompts for their own LLMs.
 
 ## ✍️ `DIY`
 
