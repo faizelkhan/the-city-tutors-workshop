@@ -1,2 +1,1 @@
-# the-city-tutors-workshop
-Workshop documents
+# The City Tutors Workshop
